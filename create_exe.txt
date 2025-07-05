@@ -1,0 +1,3 @@
+activate sap3.9
+cd yourpath
+pyinstaller --onefile --windowed --name "SAP_Analytics_Tool" main.py
