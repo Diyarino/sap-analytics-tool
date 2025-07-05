@@ -22,9 +22,13 @@ For technical users, the modular architecture supports extensions like:
 
 Ideal for SAP consultants, business analysts, and educators, this tool bridges the gap between raw transactional data and actionable business insights while eliminating the need for production system access during training or prototyping phases. The included PyInstaller configuration enables seamless Windows executable deployment for enterprise environments with strict Python runtime restrictions. 
 
-<p align="center">
-  <img src="animation.gif" width="600" height="300" alt="Decision Boundary Evolution">
-</p>
+Zeitreihe             |  Kostenanalyse
+:-------------------------:|:-------------------------:
+![](assets/zeitreihe.png)  |  ![](assets/kostenstelle.png)
+
+Materialanalyse             |  Tabellenansicht
+:-------------------------:|:-------------------------:
+![](assets/marktanalyse.png)  |  ![](assets/tabelle.png)
 
 ---
 
